@@ -1,0 +1,27 @@
+/*facebook.css*/
+
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: aquamarine;
+   
+    
+}
+
+#para1{
+    text-align: center;
+    font-size: 80px;
+    color: yellow;
+}
+
+body{
+    background: url(./12.jpg);
+    color: blue;
+    font-size: 50px;
+}
+
+p{
+    font-size: 60px;
+    color: aquamarine;
+}
