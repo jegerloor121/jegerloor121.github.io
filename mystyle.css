@@ -1,34 +1,26 @@
 /*mystyle.css*/
 
 
+p{text-align: center; font-size: 60px; color: yellow;}
 
-h1{
-    text-align: center;
-    font-size: 80px;
-    color: yellow;
-
-}
-
-body{
-    text-align: center;
-    background: url(./pot.jpg);
-    font-size: 60px;
+#para1{
+    font-size: 30px;
     color: blue;
 
 }
 
-
-
-#para1{
-
-    text-align:left;
-    font-size: 80px;
-    color: aqua;
-}
-
 .p1{
-    text-align: center;
-    font-size: 90px;
-    color: red;
+    font-size: 60px;
+    color: pink;
+
 }
 
+
+a[href="https://www.facebook.com/jeger.loor/"]{
+    background-color: aqua;
+    font-size: 50px;
+}
+
+body{
+    background: url(./123.jpg)
+}
