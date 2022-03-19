@@ -1,0 +1,17 @@
+/*mystyle.css*/
+
+
+h1{
+    font-size: 60px;
+    color: greenyellow;
+    text-align: center;
+}
+
+body{
+    background: url(./invoker.jpg);
+}
+
+p{
+    font-size: 20px;
+    color:aqua
+}
