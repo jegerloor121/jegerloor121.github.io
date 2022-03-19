@@ -1,0 +1,34 @@
+/*mystyle.css*/
+
+
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: yellow;
+
+}
+
+body{
+    text-align: center;
+    background: url(./pot.jpg);
+    font-size: 60px;
+    color: blue;
+
+}
+
+
+
+#para1{
+
+    text-align:left;
+    font-size: 80px;
+    color: aqua;
+}
+
+.p1{
+    text-align: center;
+    font-size: 90px;
+    color: red;
+}
+
