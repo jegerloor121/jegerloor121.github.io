@@ -1,0 +1,16 @@
+
+style {
+    border: 5px solid teal;
+    background-color: #A5CFE3;
+    padding: 40px;
+    margin: 40px;
+    width: 350px;
+    height: 150px;
+  }
+
+style {
+    box-sizing: border-box;
+width: 440px;
+height: 250px;
+
+  }
